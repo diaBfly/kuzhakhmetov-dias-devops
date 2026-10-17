@@ -1,0 +1,13 @@
+services:
+  app:
+    build: .
+    image: kuzhakhmetov-dias-devops
+    container_name: kuzhakhmetov-dias-container
+    ports:
+      - "8000:8000"
+    environment:
+      STUDENT_NAME: Dias
+      STUDENT_SURNAME: Kuzhakhmetov
+      STUDENT_GROUP: IT2310
+      STUDENT_ID: "31935"
+
