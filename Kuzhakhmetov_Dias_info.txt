@@ -1,0 +1,6 @@
+Name: Dias
+Surname: Kuzhakhmetov
+Group: IT2310
+Student ID: 31935
+Course: DevOps
+
